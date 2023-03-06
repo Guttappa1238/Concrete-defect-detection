@@ -2,7 +2,9 @@
 Concrete defect analysis
 1. Analyse the type of defect (Crack, Spalling, rebar)
 2. Segment individual defects along with confidence rate.
-Why  I Used YOLOv8?
+
+
+# Why  I Used YOLOv8?
 Here are a few main reasons why i consider using YOLOv8 for this work:
     1. YOLOv8 has a high rate of accuracy measured by COCO and Roboflow 100.
     2. YOLOv8 comes with a lot of developer-convenience features, from an easy-to-use CLI to a well-structured Python package.
