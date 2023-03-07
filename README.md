@@ -19,27 +19,27 @@ YOLOv8 Architecture:
 
 
 
-Anchor Free Detection
+# Anchor Free Detection
 YOLOv8 is an anchor-free model. This means it predicts directly the center of an object instead of the offset from a known anchor box.
 
 ![image](https://user-images.githubusercontent.com/45628395/223023057-fda8b42b-b13f-4eef-bdc5-6b2dd3f060f5.png)
 
 
-Dataset information:
+# Dataset information:
 	The dataset consist of 396 images in total and split into train and valid sets, which also have the labels. I used Roboflow to label the images.
 
-Training And Results:
+# Training And Results:
 	In this work i have used nano pretrained model. And it gave good results in real time inference.
 
 ![image](https://user-images.githubusercontent.com/45628395/223023120-b7fb104f-8b3b-402c-b978-9ae662430f20.png)
 
 ![image](https://user-images.githubusercontent.com/45628395/223023260-bd1a5ff1-541c-422a-9c3d-73aaeea7643b.png)
 
-Confusion matrix:
+# Confusion matrix:
 ![image](https://user-images.githubusercontent.com/45628395/223023280-90c07b32-272a-4313-875c-c3ea82ae0082.png)
 
 
 
-Results:
+# Results:
 ![image](https://user-images.githubusercontent.com/45628395/223023299-6105a266-a430-4838-bff2-4d5fbcc4651b.png)
 
