@@ -29,7 +29,12 @@ YOLOv8 is an anchor-free model. This means it predicts directly the center of an
 	The dataset consist of 396 images in total and split into train and valid sets, which also have the labels. I used Roboflow to label the images.
 
 # Training And Results:
+
 	In this work i have used nano pretrained model. And it gave good results in real time inference.
+	
+	for trainig run python3 train_yolov8.py
+	
+	for testing run python3 test_yolov8.py
 
 ![image](https://user-images.githubusercontent.com/45628395/223023120-b7fb104f-8b3b-402c-b978-9ae662430f20.png)
 
