@@ -15,8 +15,11 @@ Here are a few main reasons why i consider using YOLOv8 for this work:
     
 
 YOLOv8 Architecture:
+
     • Backbone: New CSP-Darknet53 
+    
     • Neck: SPPF, New CSP-PAN 
+    
     • Head: YOLOv3 Head 
 
 ![image](https://user-images.githubusercontent.com/45628395/223023013-dfc0944c-8f43-4e8b-8633-341be131fba3.png)
