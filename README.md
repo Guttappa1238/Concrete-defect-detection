@@ -6,9 +6,13 @@ Concrete defect analysis
 
 # Why  I Used YOLOv8?
 Here are a few main reasons why i consider using YOLOv8 for this work:
+
     1. YOLOv8 has a high rate of accuracy measured by COCO and Roboflow 100.
+    
     2. YOLOv8 comes with a lot of developer-convenience features, from an easy-to-use CLI to a well-structured Python package.
-    3. There is a large community around YOLO and a growing community around the YOLOv8 model, meaning there are many people in computer vision circles who may be able to assist you when you need guidance.
+    
+    3. There is a large community around YOLO and a growing community around the YOLOv8 model, meaning there are many people in computer vision circles
+    
 
 YOLOv8 Architecture:
     • Backbone: New CSP-Darknet53 
